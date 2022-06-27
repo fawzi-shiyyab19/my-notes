@@ -15,6 +15,23 @@
 
 # I am happy to deal with elite and one of the best teachers and ta in this course thank you all.
 
+# In the link i learn purpose of software .
+- the goal of software
+1. Readable
+2. Correct
+3. Reliable
+4. Reusable
+5. Extendable
+6. Flexible
+7. Efficient
+
+# There must be understanding between people. If there is no understanding, the information cannot be conveyed properly.
+
+# The code should be in a state of simplicity. In our lives, we can write complex code and it takes a long time, but programming languages ​​have been developed to facilitate the code and make it easy to understand.
+
+# You must also have communication Do not be disturbed by the questions that are asked Do not always be able to be the best and do not want to practice programming You must be constantly You must strengthen your skills constantly Experiment with the code so that you do not get errors in the code Always make it effective Think how it can Make the project more beautiful
+
+
 
 [Github account](https://github.com/fawzi-shiyyab19)
 
